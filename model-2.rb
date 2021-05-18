@@ -19,3 +19,8 @@ healthy_options = false
 frequent_customers = ["Leslie", "Ron", "Tom"]
 popular_dishes = ["Waffles", "Eggs", "Meat Tornado"]
 busiest_times = [9, 12, 7]
+
+#Hashes
+sandwich_ingredients = {blt: ["Bacon", "Lettuce", "Tomato"],
+                        pbj: ["Peanut Butter", "Jelly"],
+                        egg_sandwich: ["Fried egg", "Bacon", "Cheese"]}
